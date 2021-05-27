@@ -6,6 +6,8 @@
 - 📫 How to reach me: [Github](https://github.com/Trisna-Nadi-Selamet), [Twitter](https://twitter.com/NadiTrisna), [Linkedin](https://www.linkedin.com/in/trisna-nadi-s/)
 - 😄 i'm Fresh graduate Dev Javascript
 - ⚡ spirit, in the face of errors..
+ <code><img height="120" src="https://media-exp1.licdn.com/dms/image/C5603AQEPX3kfWUo_Gw/profile-displayphoto-shrink_800_800/0/1618648933448?e=1627516800&v=beta&t=uegUNxLNLpZybtU6ExczLPQPVbCBCVDo0US4S9hjkyU"
+        alt="Chef""></code>
 
 ### Languages & Tools
 
