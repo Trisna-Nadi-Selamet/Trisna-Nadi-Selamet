@@ -4,7 +4,8 @@
 - 🤔 I’m looking for help with, 🚀 | Coming Soon 😉
 - 💬 Give me an error I'll find out 😎
 - 📫 How to reach me: [Github](https://github.com/Trisna-Nadi-Selamet), [Twitter](https://twitter.com/NadiTrisna), [Linkedin](https://www.linkedin.com/in/trisna-nadi-s/)
-- 😄 i'm Dev Javascript
+- 😄 i'm Dev Back End
+- 🚀 Language program Javascript&Node.js and Golang
 - ⚡ spirit, in the face of errors..
  
 <img height="120" src="https://media-exp1.licdn.com/dms/image/C5603AQEPX3kfWUo_Gw/profile-displayphoto-shrink_800_800/0/1618648933448?e=1627516800&v=beta&t=uegUNxLNLpZybtU6ExczLPQPVbCBCVDo0US4S9hjkyU">
