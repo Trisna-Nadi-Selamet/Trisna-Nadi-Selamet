@@ -12,14 +12,17 @@
 
 
 
-### Languages & Tools
+### Languages 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://www.admfactory.com/ezoimgfmt/static.admfactory.com/images/logos/golang-400.jpg?ezimgfmt=rs:400x400/rscb10/ng:webp/ngcb10"></code>
 <code><img height="20" src="https://miro.medium.com/max/724/1*3QuStAoBvGDert0vraHGnQ.png"></code>
 
-
+### RDBMS AND DBMS
+<code><img height="20" src="https://www.logo.wine/a/logo/Apache_HBase/Apache_HBase-Logo.wine.svg"></code>
+<code><img height="20" src="https://icon-library.com/images/postgresql-icon/postgresql-icon-12.jpg"></code>
+<code><img height="20" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/133809859/original/84cba2de58751a68b9f5fa67083f55a1dc118512/create-your-database-in-ms-access-sql-server-mysql.jpg"></code>
 
 ### Follow Me:
 
