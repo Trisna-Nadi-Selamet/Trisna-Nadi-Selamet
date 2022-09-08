@@ -8,7 +8,7 @@
 - 🚀 Language program Javascript, Node.js, Golang and Java-Spring:boot
 - ⚡ spirit, in the face of errors..
  
-<img height="120" src="https://media-exp1.licdn.com/dms/image/C5603AQEPX3kfWUo_Gw/profile-displayphoto-shrink_800_800/0/1618648933448?e=1627516800&v=beta&t=uegUNxLNLpZybtU6ExczLPQPVbCBCVDo0US4S9hjkyU">
+
 
 
 
@@ -26,6 +26,7 @@
 <code><img height="20" src="https://www.logo.wine/a/logo/Apache_HBase/Apache_HBase-Logo.wine.svg"></code>
 <code><img height="20" src="https://icon-library.com/images/postgresql-icon/postgresql-icon-12.jpg"></code>
 <code><img height="20" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/133809859/original/84cba2de58751a68b9f5fa67083f55a1dc118512/create-your-database-in-ms-access-sql-server-mysql.jpg"></code>
+<code><img height="20" src="https://www.pinterest.com/pin/859132066392631317/"></code>
 
 ### Follow Me:
 
